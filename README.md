@@ -16,7 +16,7 @@ send xmr: 43xCpoubu43EtghKmr8wPtNnbjziETN7iT3gSRyi2N2rUi846s4fuaTjRzAYZzFT6s9WkU
 
 favorite food: Cheese Pizza
 
-favorite monster flavor: Pipeline Punch/Reserve Orange Dreamsicle
+favorite monster flavor: Pipeline Punch/Reserve White Pineapple
 
 favorite movie: Bo Burnhum: Inside (Isle of Dogs close second)
 
