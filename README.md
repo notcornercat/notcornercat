@@ -6,7 +6,7 @@ email: cornercat@duck.com
 
 twitter: @notcornercat
 
-discord: @fckcorner
+discord: @cornersilly
 
 send xmr: 43xCpoubu43EtghKmr8wPtNnbjziETN7iT3gSRyi2N2rUi846s4fuaTjRzAYZzFT6s9WkU8zV5GGBZjYJnvCdJYGTacDKo1
 
